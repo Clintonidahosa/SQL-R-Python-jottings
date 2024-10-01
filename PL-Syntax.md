@@ -1,4 +1,3 @@
-# Data Science and Machine Learning: From Dataset Importation to Predictive Modeling in SQL, Python, and R
 
 ---
 
