@@ -8,7 +8,9 @@
 ### R
 - `install.packages("")`: used to install packages from CRAN (Comprehensive R Archive Network), which is the default repository for R packages.
 - `BiocManager::install("")`: to install packages from Bioconductor
-- 
+- `library()`: Loads the package to make the functions available 
+
+---
 
 ## 1. Dataset Importation
 
