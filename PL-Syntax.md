@@ -1,5 +1,14 @@
 
 ---
+## Installing necessary packages
+### SQL
+
+### Python
+
+### R
+- `install.packages("")`: used to install packages from CRAN (Comprehensive R Archive Network), which is the default repository for R packages.
+- `BiocManager::install("")`: to install packages from Bioconductor
+- 
 
 ## 1. Dataset Importation
 
